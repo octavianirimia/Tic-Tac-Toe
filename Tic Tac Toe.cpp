@@ -178,7 +178,7 @@ int main()
             }
             else
             {
-                cout<<endl<<"Remiza!";
+                cout<<"Remiza!";
                 break;
             }
             
