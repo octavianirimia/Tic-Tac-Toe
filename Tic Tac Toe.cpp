@@ -88,8 +88,9 @@ void mutareX(char *tabla)
             goto a;
         }
 
-            tabla[pozitie - 1] = 'X';
-            break;
+    	tabla[pozitie - 1] = 'X';
+    	cout<<endl;
+    	break;
     }
 }
 
